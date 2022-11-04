@@ -43,6 +43,7 @@ Reducing the number of variables of a data set naturally comes at the expense of
 
 So, to sum up, the idea of PCA is simple — reduce the number of variables of a data set, while preserving as much information as possible.
 <img alt="Principal Component Analysis second principal" src="https://builtin.com/sites/www.builtin.com/files/inline-images/national/Principal%2520Component%2520Analysis%2520second%2520principal.gif" width="700" height="400">
+
 Source: [https://builtin.com/data-science/step-step-explanation-principal-component-analysis]
 
 ##### Neighborhood Component Analysis (NCA)
