@@ -51,5 +51,3 @@ Neighbourhood components analysis is a supervised learning method for classifyin
 Rather than having the user specify some arbitrary distance metric, NCA learns it by choosing a parameterized family of quadratic distance metrics, constructing a loss function of the parameters, and optimizing it with gradient descent. Furthermore, the learned distance metric can explicitly be made low-dimensional, solving test-time storage and search issues. How does NCA do this?
 
 The goal of the learning algorithm then, is to optimize the performance of kNN on future test data. Since we don’t a priori know the test data, we can choose instead to optimize the closest thing in our toolbox: the leave-one-out (LOO) performance of the training data.
-
-<img alt="Principal Component Analysis second principal" src="https://d3i71xaburhd42.cloudfront.net/24c287d97982216c8f35c8d326dc2ec2d2475f3e/6-Figure2-1.png" width="500" height="300">
