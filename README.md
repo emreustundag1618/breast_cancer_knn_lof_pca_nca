@@ -1,5 +1,4 @@
-# breast_cancer_knn_lof_pca_nca
-Breast Cancer Classification Using KNN and Outlier Analysis with LOF
+## Breast Cancer Classification Using KNN and Outlier Analysis with LOF, PCA, and NCA
 
 **Background:** Breast cancer is a type of cancer that starts in the breast. It can start in one or both breasts. Breast cancer can spread when the cancer cells get into the blood or lymph system and then are carried to other parts of the body. The lymph (or lymphatic) system is a part of your body's immune system. It is a network of lymph nodes (small, bean-sized glands), ducts or vessels, and organs that work together to collect and carry clear lymph fluid through the body tissues to the blood. The clear lymph fluid inside the lymph vessels contains tissue by-products and waste material, as well as immune system cells.
 
