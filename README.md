@@ -23,13 +23,13 @@ Skewness is a measurement of the distortion of symmetrical distribution or asymm
 #### K-Nearest Neighbors (KNN) Algorithm
 K-nearest neighbors (KNN) is a type of supervised learning algorithm used for both regression and classification. KNN tries to predict the correct class for the test data by calculating the distance between the test data and all the training points. Then select the K number of points which is closet to the test data. The KNN algorithm calculates the probability of the test data belonging to the classes of ‘K’ training data and class holds the highest probability will be selected. In the case of regression, the value is the mean of the ‘K’ selected training points.
 
-<img src="https://miro.medium.com/max/828/0*34SajbTO2C5Lvigs.png" width="500" height="300">
+<img src="https://miro.medium.com/max/828/0*34SajbTO2C5Lvigs.png" width="500" height="500">
 
 **Overfitting vs. Underfitting**
 
 Overfitting is a concept in data science, which occurs when a statistical model fits exactly against its training data. When this happens, the algorithm unfortunately cannot perform accurately against unseen data, defeating its purpose. Generalization of a model to new data is ultimately what allows us to use machine learning algorithms every day to make predictions and classify data.
 
-<img src="https://1.cms.s81c.com/sites/default/files/2021-03-03/model-over-fitting.png" width="600" height="400">
+<img src="https://1.cms.s81c.com/sites/default/files/2021-03-03/model-over-fitting.png" width="600" height="250">
 
 Source: [https://www.ibm.com/cloud/learn/overfitting]
 
