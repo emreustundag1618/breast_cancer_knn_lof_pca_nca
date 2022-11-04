@@ -29,11 +29,11 @@ K-nearest neighbors (KNN) is a type of supervised learning algorithm used for bo
 
 Overfitting is a concept in data science, which occurs when a statistical model fits exactly against its training data. When this happens, the algorithm unfortunately cannot perform accurately against unseen data, defeating its purpose. Generalization of a model to new data is ultimately what allows us to use machine learning algorithms every day to make predictions and classify data.
 
-<img src="https://1.cms.s81c.com/sites/default/files/2021-03-03/model-over-fitting.png" width="600" height="600">
+<img src="https://1.cms.s81c.com/sites/default/files/2021-03-03/model-over-fitting.png" width="600" height="400">
 
 Source: [https://www.ibm.com/cloud/learn/overfitting]
 
-<img src="https://1.cms.s81c.com/sites/default/files/2021-03-03/classic%20overfitting_0.jpg" width="400" height="400">
+<img src="https://1.cms.s81c.com/sites/default/files/2021-03-03/classic%20overfitting_0.jpg" width="400" height="200">
 
 #### Dimensionality Reduction
 ##### Principal Component Analysis (PCA)
