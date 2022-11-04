@@ -7,7 +7,7 @@ Source: [https://www.cancer.org/cancer/breast-cancer/about/what-is-breast-cancer
 
 **Motivation:** Finding breast cancer early and getting state-of-the-art cancer treatment are two of the most important strategies for preventing deaths from breast cancer. Breast cancer that’s found early, when it’s small and has not spread, is easier to treat successfully. In this work we will apply a breast cancer classification with KNN algorithm. We will also analyze the outliers of the dataset before KNN training. To increase model accuracy dimension reduction techniques like PCA and NCA will be performed.
 
-<img src="https://studiousguy.com/wp-content/uploads/2021/08/Skewed-Distribution.jpg" width="500" height="600">
+<img src="https://studiousguy.com/wp-content/uploads/2021/08/Skewed-Distribution.jpg" width="500" height="400">
 
 Skewness is a measurement of the distortion of symmetrical distribution or asymmetry in a data set. Skewness is demonstrated on a bell curve when data points are not distributed symmetrically to the left and right sides of the median on a bell curve. 
 
@@ -23,7 +23,7 @@ Skewness is a measurement of the distortion of symmetrical distribution or asymm
 #### K-Nearest Neighbors (KNN) Algorithm
 K-nearest neighbors (KNN) is a type of supervised learning algorithm used for both regression and classification. KNN tries to predict the correct class for the test data by calculating the distance between the test data and all the training points. Then select the K number of points which is closet to the test data. The KNN algorithm calculates the probability of the test data belonging to the classes of ‘K’ training data and class holds the highest probability will be selected. In the case of regression, the value is the mean of the ‘K’ selected training points.
 
-<img src="https://miro.medium.com/max/828/0*34SajbTO2C5Lvigs.png" width="500" height="600">
+<img src="https://miro.medium.com/max/828/0*34SajbTO2C5Lvigs.png" width="500" height="300">
 
 **Overfitting vs. Underfitting**
 
@@ -33,7 +33,7 @@ Overfitting is a concept in data science, which occurs when a statistical model 
 
 Source: [https://www.ibm.com/cloud/learn/overfitting]
 
-<img src="https://1.cms.s81c.com/sites/default/files/2021-03-03/classic%20overfitting_0.jpg" width="400" height="200">
+<img src="https://1.cms.s81c.com/sites/default/files/2021-03-03/classic%20overfitting_0.jpg" width="400" height="400">
 
 #### Dimensionality Reduction
 ##### Principal Component Analysis (PCA)
